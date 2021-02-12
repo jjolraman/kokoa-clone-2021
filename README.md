@@ -1,3 +1,3 @@
 #Kokoa clone 2021
 
-CSS goes better I think
+HTML and CSS goes  better I think!
